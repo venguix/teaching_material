@@ -160,4 +160,14 @@
      "Repository":"htpps://github.com/mtl-brainhack-school-2018/rheauls"
  },
 }
+{ "Vicente Enguix": {
+   "Where I'm from": "CHU Sainte-Justine",
+   "What do I do": "PhD student at Research Center in CHU Sainte-Justine and École Polytechnique de Montréal",
+   "What do I want to learn at Brainhack": "Analyse and Process Resting State fMRI images", 
+   "Talk to Me About":"MRI phantom quality controls","MRI physics","preclinical mri",
+   "Background":"Undergrad: Electronic Engineering, MSc: Medical Radiophysics",
+   "Social media": "twitter: @VicenteEch",
+   "Repository": "https://github.com/mtl-brainhack-school-2018/venguix"
+},
+}
 
